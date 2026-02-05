@@ -1,0 +1,37 @@
+{
+  "labels": [
+    {
+      "id": "twin_cuz",
+      "type": "neutral",
+      "variants": ["twin", "cuz"]
+    },
+    {
+      "id": "sis_bro",
+      "type": "gendered",
+      "female": "sis",
+      "male": "bro"
+    },
+    {
+      "id": "auntie_unc",
+      "type": "gendered",
+      "female": "auntie",
+      "male": "unc"
+    },
+    {
+      "id": "bitch_fuckboy",
+      "type": "neutral",
+      "variants": ["bitch", "fuckboi"]
+    },
+    {
+      "id": "nword_pair",
+      "type": "neutral",
+      "variants": ["nigga", "nigger"]
+    },
+    {
+      "id": "girl_boy",
+      "type": "gendered",
+      "female": "girl",
+      "male": "boy"
+    }
+  ]
+}
