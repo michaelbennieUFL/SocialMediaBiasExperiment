@@ -1,19 +1,19 @@
 {
   "sentences": [
-    { "id": "s01", "template": "I don't know [gendered_response: her,him], but [gendered_response: she's,he's] my [label_location]." },
-    { "id": "s02", "template": "Yeah, we're cool, that's my [label_location]." },
-    { "id": "s03", "template": "I was just hanging with my [label_location]." },
+    { "id": "s01", "template": "I don't know [gendered_response: her,him], but [gendered_response: she's,he's] my [label_location]" },
+    { "id": "s02", "template": "Yeah, we're cool, that's my [label_location]" },
+    { "id": "s03", "template": "I was just hanging with my [label_location]" },
     { "id": "s04", "template": "It's me, ya [label_location]" },
 
-    { "id": "s05", "template": "Hey [label_location]!" },
-    { "id": "s06", "template": "[label_location] no way?" },
+    { "id": "s05", "template": "Hey [label_location]" },
+    { "id": "s06", "template": "[label_location] no way" },
 
-    { "id": "s07", "template": "[label_location] really did that." },
+    { "id": "s07", "template": "[label_location] really did that" },
     { "id": "s08", "template": "[label_location] shut up" },
 
-    { "id": "s09", "template": "That ain't your [label_location]." },
+    { "id": "s09", "template": "That ain't your [label_location]" },
 
-    { "id": "s10", "template": "[label_location] get out of here." }
+    { "id": "s10", "template": "[label_location] get out of here" }
 
   ]
 }
